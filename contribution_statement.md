@@ -16,3 +16,8 @@ Henry Lam:
 
 * Answered questions 3 and 4
 * Looked over / helped with question 5 (regarding grouping by units of time and rolling means)
+
+Kanglin He:
+* Answered question 5 and fixed question 2
+* Helped with question 6 on the plot display feature
+* Looked over question 2 and 4
